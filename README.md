@@ -29,3 +29,15 @@ Sought a variety of articles on the day to day workflow of insurance managers
 3. [A Day in the Life of an Insurance Marketing Manager](https://www.google.com/amp/s/blog.central-insurance.com/2015/09/14/a-day-in-the-life-of-an-insurance-marketing-manager/amp/)
 
 4. [7 Habits of Highly Effective Insurance Agents](https://www.agencynation.com/highly-effective-insurance-agents/)
+
+5. [Overview of the Independent Insurance Agency System](http://www.iiat.org/docs/default-source/new-agency/am_ams_overview.pdf?sfvrsn=0)
+
+##### _Insights_
+* **a bit behind on their tech**
+  Agents spend most of their time dealing with paperwork. Finding wasys to make their workflow less error prone is paramount..
+* **accessing updated paperwork is really important and could save time**
+  Because of the importance of paperwork agents need to have easy access to the most updated paperwork the carrier has to offer as well as easy access to a wide variety of forms, perhaps even input paths.
+* **email seems to be their primary tool**
+  Since a lot of their work is contact based, agents reaching out to clients, agencies to MCAs and to carriers, carriers back to agencies and angents, etc., it behooves us to integrate email into the workflow. It's the first place they seem to look at.
+
+#### Mapping things out
