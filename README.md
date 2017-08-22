@@ -42,10 +42,19 @@ Sought a variety of articles on the day to day workflow of insurance managers
 
 #### Mapping things out
 ##### _Notes_
-* User needs the interface to be light, smart, flexible, clear.
+* User needs the interface to be light, smart, flexible, clear. From my perspective they seem to be looking for managing accessibility.
 * IF a table is displayed to the user THEN sorting by columns should be activated.
 * IF a carrier assigns a state or policy to an asset (Agent/ Agency) THEN that asset would have a certain amount of time to furnish the required documentation and would be notified about their timeline. Assets could potentially issue requests for states or policies as well. 
 * Should carrier's have the ability to manually deactivate assets (Agent/Agency) state activity?
 * IF viewing a list carriers (could) THEN have the otpion to add new assets, or assign capabilities to the asset or even the entire list.
 * The assignment of policy and state activity should be available from multiple access points.
+
+![Unpack notes page 1](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Unpack-Notes-01.png)
+![Unpack notes page 2](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Unpack-Notes-02.png)
+![Unpack notes page 3](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Unpack-Notes-03.png)
+![Unpack notes page 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Unpack-Notes-04.png)
+
+## Sketch
+
+#### Mobile
 
