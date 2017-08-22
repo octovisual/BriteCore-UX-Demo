@@ -41,3 +41,11 @@ Sought a variety of articles on the day to day workflow of insurance managers
   Since a lot of their work is contact based, agents reaching out to clients, agencies to MCAs and to carriers, carriers back to agencies and angents, etc., it behooves us to integrate email into the workflow. It's the first place they seem to look at.
 
 #### Mapping things out
+##### _Notes_
+* User needs the interface to be light, smart, flexible, clear.
+* IF a table is displayed to the user THEN sorting by columns should be activated.
+* IF a carrier assigns a state or policy to an asset (Agent/ Agency) THEN that asset would have a certain amount of time to furnish the required documentation and would be notified about their timeline. Assets could potentially issue requests for states or policies as well. 
+* Should carrier's have the ability to manually deactivate assets (Agent/Agency) state activity?
+* IF viewing a list carriers (could) THEN have the otpion to add new assets, or assign capabilities to the asset or even the entire list.
+* The assignment of policy and state activity should be available from multiple access points.
+
