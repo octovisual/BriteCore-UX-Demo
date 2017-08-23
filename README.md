@@ -57,4 +57,28 @@ Sought a variety of articles on the day to day workflow of insurance managers
 ## Sketch
 
 #### Mobile
+##### _Notes_
+Started out in mobile to re-process my thinking through the task flows, with the intent to push up from there to table and to make a small adjustment from tablet to desktop if time allows.
+* Noticed that it would be pretty sweet if agents and agencies could have access to the system so that they could stay on top of their licenses and carriers could then delegate that upkeep to them. I've included a note on this at the end of the mobile sketches section.
+![Sketches page 1](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-05.png)
+![Sketches page 2](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-06.png)
+![Sketches page 3](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-07.png)
+![Sketches page 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-08.png)
+![Sketches page 5](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-09.png)
+![Sketches page 6](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-10.png)
+
+Thought on how asset (agency/ agent) self-management could be beneficial for carrier manager:
+![Thoughts page 1](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Thought-Notes-11.png)
+
+#### Tablet
+##### _Notes_
+Some examples to guide how elements move up from the mobile state to the more spacious tablet stage.
+* Decided that for the asset profile it would be beneficial to split the screen to easily show licences and policies.
+![Sketches page 7](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-12.png)
+![Sketches page 8](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-13.png)
+![Sketches page 9](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-14.png)
+![Sketches page 10](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-15.png)
+![Sketches page 11](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-16.png)
+![Sketches page 12](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-17.png)
+![Sketches page 13](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-18.png)
 
