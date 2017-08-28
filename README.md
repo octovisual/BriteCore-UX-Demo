@@ -196,4 +196,9 @@ _Fired up the screenrecorder_
 ![Prototyping 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-27%20at%2018.57.23.png)
 
 ##### _Demo Video_
-Unfortunately I could not add the demo video to the README.MD file so that one could just scroll down to it. It has audio as I go through all the screens and various tasks explaining some of the thinking behind it and how it could work. It is some 30 mins long.
+Unfortunately I could not add the demo video to the README.MD file so that one could just scroll down to it. It has audio as I go through all the screens and various tasks explaining some of the thinking behind it and how it could work. It is some 30 mins long. I will share the video with you through a Google Drive link.
+
+## Test
+Although I did ask two actual human beings about their experiences with enterprise software and used them both throughout the process to user check some of the solutions that I worked on. There was no official sit down test for the prototype. That rests as a step for the future. 
+
+# THANKS
