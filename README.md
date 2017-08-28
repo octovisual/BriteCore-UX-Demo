@@ -82,3 +82,70 @@ Some examples to guide how elements move up from the mobile state to the more sp
 ![Sketches page 12](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-17.png)
 ![Sketches page 13](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Sketch-Mobile-Notes-18.png)
 
+
+## Decide
+Having worked out most of the kinks in the sketches {considering the time available for completion :)} I set out to complete the next phase and in the process to refine my thinking about the solutions. 
+
+##### _Insights_
+Again I enlisted the help of Ms. Conceição and Mr. De La Hoz to get a sense if I was straying too far from users. They were soundly confused with the first task of adding an agent to an agency.
+* **Where do I find the agencies?** It was not apparent that Agents would both include _individual agents_ **AND** _agencies_ . Surmising that an _agency_ is essentially a grouping of _agents_ In my defense I did find at least one source online where they were treated as the same thing. But in the end let the user prevail. 
+* **Wait but which is more important?** There was a wee bit of confusion when I asked them if they could choose the most urgent task from the _home tab_ and it dawned on me that I really did need labels there.  So Critical, Pending and Normal were born. (You'll see later on what I mean.)
+
+###### Some other decision points as part of the logic in no particular order:
+* **TABLET:** the Asset screen will need to be split. Need to decide if I will use cards on the second column or not. (Could be useful.)
+
+* **TABLET:** if doing Material-esque like Nav then may need to forget about crumbs. May still be doable but need to take a look at the interface.
+
+* **GENERAL:** when managing a state under the policies tab a user would only need to manage Authorized agents for that policy in those states. Documents would be in the Documents tab and Forms as well. Or could it be useful to have the docs there as well?
+
+* **IF** a screen is equal in depth to two and half of more full screens on the device it is shown **THEN** include a _To Top_ flat button bellow last element.
+
+* **IF** a user scrolls **THEN** any action button would hide until the user either scrolls up or executes an action that contextualizes the button’s re-emergence. Such as scrolling back up or selecting something that offers new actions.
+
+* **IF** the keyboard is pulled up by a field **THEN** the keyboard must match the field’s input modality: Alphanumeric, numeric, email input, etc. We can keep the user on task from field to field until it is done unless they choose hide the keyboard.
+
+* **IF** the keyboard is pulled up **THEN** action buttons will hide until the keyboard is down and resume their normal behavior.
+
+* **IF** a user taps outside of the keyboard **THEN** said action will hide it. (Fields below it will not be active for tap until the keyboard is down.)
+
+* **Form entries** should be auto saved so that we can offer pending tasks to users.
+
+* **IF** suggestions can be made for an input field **THEN** they should be made. Expl. By entering the State for the license we can reduce the  possible amount of licenses classes and that may help pre-populate the LOA.
+
+* **IF** a screen does not have a specific location, like a form for example which is pulled out contextually, **THEN** it will have a close action associated with it on the top bar. It would behave as if it were a floating sheet.
+
+* **IF** a screen has a specific location, like the agent profile, **THEN** it will have a back arrow to return to the previous screen.
+
+* **IF** a user selects a policy from the policies list **THEN** they will be offered the option to assign it to an agent. IF the user decides to ‘assign agent’ THEN the assignment form’s name field match suggestions should be filtered by agents with applicable licenses.
+
+* **IF** a form is contains required fields **THEN** the ‘done’ action button will not be available until they are completed.
+
+* **IF** a user has valid licenses for more than ten states **THEN** the state selection interface will utilize a search tool to improve completion speed.
+
+* **By requiring that a policy is linked to a state at the addition stage** we can ensure that when a state needs to be added it is added in the context of a policy. So, no need to add states independently of active policies.
+
+* **IF** the search bar is engaged **THEN** the alphabet jumper will be hidden until the search flow is completed.
+
+* **When search is engaged** elements below it should be lightened to aid the user to stay on task.
+
+* **IF** a search is completed by selecting a single suggested match THEN the user is taken to that match’s profile. IF the user steps back from the profile **THEN** they will be placed back in the screen where they engaged the search from and on the initial letter section of the list.
+
+#### Mobile
+I decided to focus most of my efforts to fleshing out the solution for mobile as I imagined this would be the hardest part of the process and perhaps the most relevant solution to the managers. Imagining them waking up and being able to pull up elements on their commute, perhaps on the train or while waiting for their coffee gave me a sense that these managers (Carrier Managers) would benefit from having this module fully functional on their smartphone.
+
+##### _Wires & Notes_
+Here are some of the screens with a couple of notes although everything will be explained in detail on the demo video. But still some screens:
+
+_Navigation Tabs_
+![Decide Wires and Notes 1](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes01-Edited.jpg)
+_Agencies Tab_
+![Decide Wires and Notes 2](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes02-Edited.jpg)
+_Agents Tab_ 
+![Decide Wires and Notes 3](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes03-Edited.jpg)
+_Policies Tab_
+![Decide Wires and Notes 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes04-Edited.jpg)
+_Agency Profile_
+![Decide Wires and Notes 5](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes05-Edited.jpg)
+_Assigning A Policy_
+![Decide Wires and Notes 6](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes06-Edited.jpg)
+![Decide Wires and Notes 7](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes07-Edited.jpg)
