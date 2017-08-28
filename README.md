@@ -149,3 +149,29 @@ _Agency Profile_
 _Assigning A Policy_
 ![Decide Wires and Notes 6](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes06-Edited.jpg)
 ![Decide Wires and Notes 7](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes07-Edited.jpg)
+
+#### Tablet
+Here are the scaled up solutions for the main screens on table. The assumption here is that the implementation on Desktop would closely follow the Tablet solution perhaps scaling up if needed, considering the resolution of an average tablet.(iPad Pro viewport alone is 1024 x 1366 which is already at a desktop starting size.)
+##### _Insights_
+In the case of the tablet solutions it was mainly an exercise in translating the ease of the mobile solution to a two thumb universe, the tablet zone, while maintaining consistency in the design and capitalizing on the assumptions a user might have on tablet. Usually that they can handle any emergency on the couch.
+
+_Home Tab_
+![Decide Wires and Notes 8](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes08-Edited.jpg)
+_Agencies Tab_
+![Decide Wires and Notes 9](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes09-Edited.jpg)
+_Agents Tab_ 
+![Decide Wires and Notes 10](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes10-Edited.jpg)
+_Policies Tab_
+![Decide Wires and Notes 11](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes11-Edited.jpg)
+_Agent Profile Opt 1_
+![Decide Wires and Notes 12](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes12-Edited.jpg)
+_Agent Profile Opt 2_
+![Decide Wires and Notes 13](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes13-Edited.jpg)
+
+
+_Agency Profile_
+![Decide Wires and Notes 5](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes05-Edited.jpg)
+
+
+
+##### _Wires & Notes_
