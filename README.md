@@ -199,6 +199,7 @@ _Fired up the screenrecorder_
 Unfortunately I could not add the demo video to the README.MD file so that one could just scroll down to it. It has audio as I go through all the screens and various tasks explaining some of the thinking behind it and how it could work. It is some 30 mins long. I will share the video with you through a Google Drive link.
 
 ## Test
-Although I did ask two actual human beings about their experiences with enterprise software and used them both throughout the process to user check some of the solutions that I worked on. There was no official sit down test for the prototype. That rests as a step for the future. 
+Although I did ask two actual human beings about their experiences with enterprise software and used them both throughout the process to user check some of the solutions that I worked on, there was no official sit down test for the prototype. That rests as a fun step for the future. 
 
-# THANKS
+# THANKS!
+
