@@ -134,7 +134,7 @@ Again I enlisted the help of Ms. Conceição and Mr. De La Hoz to get a sense if
 I decided to focus most of my efforts to fleshing out the solution for mobile as I imagined this would be the hardest part of the process and perhaps the most relevant solution to the managers. Imagining them waking up and being able to pull up elements on their commute, perhaps on the train or while waiting for their coffee gave me a sense that these managers (Carrier Managers) would benefit from having this module fully functional on their smartphone.
 
 ##### _Wires & Notes_
-Here are some of the screens with a couple of notes although everything will be explained in detail on the demo video. But still some screens:
+All screens designed here were designed and mirrored on an iPhone6 + and a Sony Xperia to ensure that all elements were up to real world measures. Aside from adhering to the mobile general guidelines for usability. I usually like to make touch areas a bit bigger just to make sure that there will be less likelihood of tapping errors. Here are some of the screens with a couple of notes although everything will be explained in detail on the demo video. But still some screens:
 
 _Navigation Tabs_
 ![Decide Wires and Notes 1](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes01-Edited.jpg)
@@ -151,9 +151,12 @@ _Assigning A Policy_
 ![Decide Wires and Notes 7](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes07-Edited.jpg)
 
 #### Tablet
-Here are the scaled up solutions for the main screens on table. The assumption here is that the implementation on Desktop would closely follow the Tablet solution perhaps scaling up if needed, considering the resolution of an average tablet.(iPad Pro viewport alone is 1024 x 1366 which is already at a desktop starting size.)
+All screens designed here were designed and mirrored on an iPad Air to ensure that all elements were up to real world measures. Here are the scaled up solutions for the main screens on table. The assumption here is that the implementation on Desktop would closely follow the Tablet solution perhaps scaling up if needed, considering the resolution of an average tablet.(iPad Pro viewport alone is 1024 x 1366 which is already at a desktop starting size.)
 ##### _Insights_
 In the case of the tablet solutions it was mainly an exercise in translating the ease of the mobile solution to a two thumb universe, the tablet zone, while maintaining consistency in the design and capitalizing on the assumptions a user might have on tablet. Usually that they can handle any emergency on the couch.
+
+##### _Wires & Notes_
+Here are the screens with some notes. 
 
 _Home Tab_
 ![Decide Wires and Notes 8](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes08-Edited.jpg)
@@ -172,6 +175,25 @@ _Agent Profile Opt 2_
 _Agency Profile_
 ![Decide Wires and Notes 5](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Notes05-Edited.jpg)
 
+## Prototype
+For the prototype I used Craft from Invision. 
 
+##### _Notes_
+* **First step** write out all the links for all the different tasks on my Omnilog.
+_My Omnilog on OmniOutliner_
+![Protoyping 1](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-28%20at%2001.27.54.png)
 
-##### _Wires & Notes_
+* **Second step** link all of the screen elements as using Craft. It pays off to keep tidy files, layers, names, etc.
+_A little section of the web of connections_
+![Prototyping 2](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-26%20at%2019.36.37.png)
+
+* **Third step** after reviewing all the screens for errors, typos, etc. Start to test the protype on the phone. 
+_Cooking it up in Invision_
+![Prototyping 3](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-28%20at%2001.26.21.png)
+
+* **Fourth step** after ensuring that all the links were good and a couple of rounds of reworking the touchzones, it was time to record. 
+_Fired up the screenrecorder_
+![Prototyping 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-28%20at%2001.26.21.png)
+
+##### _Demo Video_
+Unfortunately I could not add the demo video to the README.MD file so that one could just scroll down to it. It has audio as I go through all the screens and various tasks explaining some of the thinking behind it and how it could work. It is some 30 mins long.
