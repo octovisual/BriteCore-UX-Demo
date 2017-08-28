@@ -193,7 +193,7 @@ _Cooking it up in Invision_
 
 * **Fourth step** after ensuring that all the links were good and a couple of rounds of reworking the touchzones, it was time to record. 
 _Fired up the screenrecorder_
-![Prototyping 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-28%20at%2001.26.21.png)
+![Prototyping 4](https://github.com/octovisual/BriteCore-UX-Demo/blob/master/Screen%20Shot%202017-08-27%20at%2018.57.23.png)
 
 ##### _Demo Video_
 Unfortunately I could not add the demo video to the README.MD file so that one could just scroll down to it. It has audio as I go through all the screens and various tasks explaining some of the thinking behind it and how it could work. It is some 30 mins long.
